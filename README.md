@@ -1,2 +1,2 @@
 # curso git/github
- material produzido no curso de git e github
+ Repositório criado durante o curso de git e github do professor Gustavo Guanabara.
